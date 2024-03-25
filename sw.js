@@ -4,9 +4,7 @@ self.addEventListener('install', function(event) {
         caches.open('your-cache-name').then(function(cache) {
             return cache.addAll([
                 '/',
-                '/index.html',
-                '/css/main.css',
-                '/js/main.js'
+                '/index.html'
             ]);
         })
     );
