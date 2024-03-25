@@ -1,0 +1,15 @@
+{
+    "short_name": "JP Cheat Sheet",
+    "name": "Japanese Cheat Sheet for Tourists",
+    "icons": [
+        {
+            "src": "icon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "theme_color": "#317EFB",
+    "background_color": "#FFFFFF"
+}
