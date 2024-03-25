@@ -8,7 +8,7 @@
             "sizes": "192x192"
         }
     ],
-    "start_url": "/japan/index.html",
+    "start_url": "https://agusalex.github.io/japan",
     "display": "standalone",
     "theme_color": "#317EFB",
     "background_color": "#FFFFFF"
