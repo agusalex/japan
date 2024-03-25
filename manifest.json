@@ -8,7 +8,7 @@
             "sizes": "192x192"
         }
     ],
-    "start_url": "/index.html",
+    "start_url": "/japan/index.html",
     "display": "standalone",
     "theme_color": "#317EFB",
     "background_color": "#FFFFFF"
